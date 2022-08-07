@@ -15,7 +15,7 @@ https://serverless-python-7ct5tbixmq-uc.a.run.app
 **Technologies**
 ```
 Python
-Fast API
+FastAPI
 Docker
 Google Cloud Platform:
   - Cloud Run
