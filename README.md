@@ -1,6 +1,10 @@
 # Serverless-Python
 
-https://serverless-python-7ct5tbixmq-uc.a.run.app
+**-- Service Deactivated --** 
+
+**02/12/2023**
+
+---
 
 
 **Endpoints**
